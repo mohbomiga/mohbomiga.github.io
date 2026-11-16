@@ -906,4 +906,7 @@ button {
 #scrollDown,
 #initial-screen > .secondHostBtn {
     display: none !important;
+}/* Hide HEN selection box */
+#choosejb-initial {
+    display: none !important;
 }
