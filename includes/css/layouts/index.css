@@ -899,4 +899,11 @@ button {
 
 #DebugConsole:hover {
     cursor: pointer;
-}
+}/* OMIGA STORE - clean first screen */
+#initial-screen > header,
+#click-to-start-text,
+#PS4FW,
+#scrollDown,
+#initial-screen > .secondHostBtn {
+    display: none !important;
+}o
